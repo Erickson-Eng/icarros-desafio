@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="595d0b89-8674-48be-accd-0c6acc3e296a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/icarros/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/icarros/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/icarros/questao3/CreepyHour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/icarros/questao3/CreepyHour.class" afterDir="false" />
-    </list>
+    <list default="true" id="595d0b89-8674-48be-accd-0c6acc3e296a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644624107101</updated>
       <workItem from="1644624109318" duration="6014000" />
-      <workItem from="1644885631443" duration="1515000" />
+      <workItem from="1644885631443" duration="1821000" />
     </task>
     <servers />
   </component>
